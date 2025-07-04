@@ -4,3 +4,42 @@
 /P2
 /hello.cpp
 /recive
+
+# コンパイル生成物
+*.o
+*.obj
+*.so
+*.exe
+*.out
+*.a
+*.lib
+*.dll
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+!build/.gitkeep
+
+# OS固有ファイル
+.DS_Store
+Thumbs.db
+
+# コアダンプ
+core
+*.core
+
+# その他
+*.log
+
+# VSCode設定（必要に応じて）
+.vscode/
+
+# バックアップファイル
+*~
+*.swp
+
+*.dSYM/
+main
