@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kentat/Documents/programing/ODE_2/practice/main'
+relocations:     []
+...
