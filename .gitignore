@@ -6,14 +6,14 @@
 /recive
 
 # コンパイル生成物
-*.o
-*.obj
-*.so
-*.exe
-*.out
-*.a
-*.lib
-*.dll
+/.o
+/.obj
+/.so
+/.exe
+/.out
+/.a
+/.lib
+/.dll
 
 # CMake
 CMakeFiles/
@@ -29,17 +29,17 @@ Thumbs.db
 
 # コアダンプ
 core
-*.core
+/.core
 
 # その他
-*.log
+/.log
 
 # VSCode設定（必要に応じて）
 .vscode/
 
 # バックアップファイル
-*~
-*.swp
+/~
+/.swp
 
-*.dSYM/
+/.dSYM/
 main
